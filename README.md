@@ -6,16 +6,16 @@
 - **Program studi:** D4 Mekatronika, Politeknik Elektronika Negeri Surabaya (PENS)
 
 ## Project Roboflow
-- **Project ID Roboflow:** TODO — isi dengan `workspace/project`
-- **Dataset version:** TODO — isi nomor versi dataset yang digunakan untuk Model 1
-- **Link Roboflow Universe:** TODO — isi tautan publik proyek Roboflow
+- **Project ID Roboflow:** khalfins-workspace
+- **Dataset version:** 1
+- **Link Roboflow Universe:** https://app.roboflow.com/khalfins-workspace/penship-object-detection/1
 
 ## Dataset
 - **Kelas objek:** `bottle`, `laptop`, dan `pencil`.
-- **Jumlah foto asli:** TODO — isi jumlah foto yang diambil sendiri.
-- **Metode pengambilan foto:** TODO — jelaskan variasi jarak, sudut pengambilan, pencahayaan, dan latar belakang yang benar-benar digunakan.
-- **AI labeling Roboflow:** TODO — jelaskan apakah menggunakan fitur AI labeling dan bagaimana label diperiksa atau diperbaiki.
-- **Pembagian dataset:** TODO — isi jumlah gambar train, validation, dan test berdasarkan versi dataset Model 1.
+- **Jumlah foto asli:** 84
+- **Metode pengambilan foto:** TODO 
+- **AI labeling Roboflow:** TODO 
+- **Pembagian dataset:** TODO 
 
 Dataset digunakan untuk melatih model deteksi objek yang dapat mengenali botol plastik, laptop, dan pensil kayu. Pelabelan mengikuti definisi kelas yang ditetapkan dalam panduan final project PENSHIP.
 
@@ -88,4 +88,4 @@ Pengembangan evaluasi, inferensi, dan pencatatan hasil prediksi ditujukan untuk 
 ## Referensi
 - Ultralytics YOLOv8: https://docs.ultralytics.com/
 - Roboflow: https://roboflow.com/
-- Project Roboflow: TODO — masukkan tautan publik proyek yang digunakan.
+- Project Roboflow: https://app.roboflow.com/khalfins-workspace/penship-object-detection/1
